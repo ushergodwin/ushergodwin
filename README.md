@@ -1,5 +1,5 @@
 # SOFTWARE DEVELOPER
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <!--
 **ushergodwin/ushergodwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on https://github.com/ushergodwin/hashtagwordcloud
 - 🌱 I’m currently learning `Python`
 - 👯 I’m looking to collaborate on https://github.com/boosted-techs/boosted-sms
-- 💬 Ask me about PHP, JavaScript
+- 💬 Ask me about PHP, JavaScript, Python
 - 📫 How to reach me: godwintumuhimbise96@gmail.com
 - ⚡ Fun fact: I sleep at 3 AM and wake up at 7 Am TIMEZONE (EAT)
 
@@ -40,20 +40,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=cvms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
 
-<a href="https://github.com/ushergodwin/botique">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=botique&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-
-<a href="https://github.com/ushergodwin/screen-scraping">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=screen-scraping&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
 
 <!-- links to social media icons -->
-
-<!-- icons with padding -->
-
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
@@ -61,6 +49,7 @@ Here are some ideas to get you started:
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
@@ -68,7 +57,6 @@ Here are some ideas to get you started:
 [1]: https://twitter.com/usherTgodwin
 [2]: https://github.com/usherTgodwin
 [3]: https://www.linkedin.com/in/tumuhimbise-usher-godwin-8947b3189/
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
