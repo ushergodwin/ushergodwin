@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 [1]: https://twitter.com/usherTgodwin
 [2]: https://github.com/usherTgodwin
-[3]: https://www.linkedin.com/in/heinz-martin/
+[3]: https://www.linkedin.com/in/tumuhimbise-usher-godwin-8947b3189/
 
 
 <!-- Resources -->
