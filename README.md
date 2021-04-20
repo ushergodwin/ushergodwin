@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about PHP, JavaScript
 - 📫 How to reach me: godwintumuhimbise96@gmail.com
 - ⚡ Fun fact: I sleep at 3 AM and wake up at 7 Am TIMEZONE (EAT)
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-<!--
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -41,7 +38,17 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/ushergodwin/hashtagwordcloud">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=cvms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>   
+
+<a href="https://github.com/ushergodwin/botique">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=botique&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+
+<a href="https://github.com/ushergodwin/screen-scraping">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=screen-scraping&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
 
 <!-- links to social media icons -->
 
@@ -54,7 +61,6 @@ Here are some ideas to get you started:
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
