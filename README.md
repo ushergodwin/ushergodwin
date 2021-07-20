@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on https://github.com/ushergodwin/hashtagwordcloud
+- 🔭 I’m currently working on https://github.com/ushergodwin/pycsql
 - 🌱 I’m currently learning `Python`
 - 👯 I’m looking to collaborate on https://github.com/boosted-techs/boosted-sms
 - 💬 Ask me about PHP, JavaScript, Python
@@ -34,11 +34,11 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ushergodwin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Godwin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/ushergodwin/cvms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=hashtagwordcloud&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/ushergodwin/pycsql">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=pycsql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/ushergodwin/hashtagwordcloud">
+<a href="https://github.com/ushergodwin/cvms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=cvms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
 
