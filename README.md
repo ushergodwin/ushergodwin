@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on https://github.com/ushergodwin/pycsql
-- 🌱 I’m currently learning `Python`
-- 👯 I’m looking to collaborate on https://github.com/boosted-techs/boosted-sms
+- 🌱 I’m currently learning `RectJs`, `NodeJs`, and `Python`
+- 👯 I’m looking to collaborate on bigger projects in a few days to come
 - 💬 Ask me about PHP, JavaScript, Python
 - 📫 How to reach me: godwintumuhimbise96@gmail.com
 - ⚡ Fun fact: I sleep at 3 AM and wake up at 7 Am TIMEZONE (EAT)
@@ -40,7 +40,11 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/ushergodwin/cvms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=cvms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
+</a>
+<!-- <a href="https://github.com/ushergodwin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ushergodwin" />
+</a> -->
+<!-- [![usehrgodwin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ushergodwin)](https://github.com/ushergodwin) -->
 
 
 <!-- links to social media icons -->
