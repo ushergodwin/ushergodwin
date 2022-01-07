@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/ushergodwin/cvms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=cvms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<!-- <a href="https://github.com/ushergodwin">
+<a href="https://github.com/ushergodwin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ushergodwin" />
-</a> -->
+</a>
 <!-- [![usehrgodwin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ushergodwin)](https://github.com/ushergodwin) -->
 
 
