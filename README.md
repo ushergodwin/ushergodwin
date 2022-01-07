@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning `RectJs`, `NodeJs`, and `Python`
 - 👯 I’m looking to collaborate on bigger projects in a few days to come
 - 💬 Ask me about PHP, JavaScript, Python
-- 📫 How to reach me: godwintumuhimbise96@gmail.com
-- ⚡ Fun fact: I sleep at 3 AM and wake up at 7 Am TIMEZONE (EAT)
+- 📫 How to reach me: [WhatsApp Me](https://wa.link/wifq0f) or [Email ME](mailto:godwintumuhimbise96@gmail.com)
+- ⚡ Fun fact: I sleep at 3 AM and wake up at 7 AM TIMEZONE (EAT)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-PyCham-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/ushergodwin/cvms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=cvms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+<br>
 <a href="https://github.com/ushergodwin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ushergodwin" />
 </a>
