@@ -1,4 +1,4 @@
-# SOFTWARE DEVELOPER
+# SOFTWARE ENGINEER / DEVELOPER
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <!--
@@ -41,10 +41,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/ushergodwin/cvms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=cvms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 <a href="https://github.com/ushergodwin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ushergodwin" />
 </a>
-<!-- [![usehrgodwin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ushergodwin)](https://github.com/ushergodwin) -->
+
 
 
 <!-- links to social media icons -->
