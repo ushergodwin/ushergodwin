@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on https://github.com/ushergodwin/pycsql
+- 🔭 I’m currently working on https://github.com/ushergodwin/PyMySQLPing
 - 🌱 I’m currently learning `RectJs`, `NodeJs`, and `Python`
 - 👯 I’m looking to collaborate on bigger projects in a few days to come
 - 💬 Ask me about PHP, JavaScript, Python
