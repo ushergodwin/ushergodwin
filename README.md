@@ -9,6 +9,10 @@
 <a href="https://github.com/ushergodwin/ushergodwin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ushergodwin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Godwin's GitHub Stats" width="80%" />
 </a>
+<br/>
+<a href="https://github.com/ushergodwin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ushergodwin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="80%"/>
+</a>
 
 <a href="https://github.com/ushergodwin/PyMySQLPing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=PyMySQLPing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -17,11 +21,6 @@
 <a href="https://github.com/ushergodwin/cvms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ushergodwin&repo=cvms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<br/><br/>
-<a href="https://github.com/ushergodwin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ushergodwin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="80%"/>
-</a>
-
 
 
 <!-- links to social media icons -->
