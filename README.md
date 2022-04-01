@@ -1,18 +1,6 @@
 # SOFTWARE ENGINEER / DEVELOPER
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-<!--
-**ushergodwin/ushergodwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on https://github.com/ushergodwin/PyMySQLPing
-- 🌱 I’m currently learning `RectJs`, `NodeJs`, and `Python`
-- 👯 I’m looking to collaborate on bigger projects in a few days to come
-- 💬 Ask me about PHP, JavaScript, Python
-- 📫 How to reach me: [WhatsApp Me](https://wa.link/wifq0f) or [Email ME](mailto:godwintumuhimbise96@gmail.com)
-- ⚡ Fun fact: I sleep at 3 AM and wake up at 7 AM TIMEZONE (EAT)
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-PyCham-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
